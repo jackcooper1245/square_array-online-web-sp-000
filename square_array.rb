@@ -3,3 +3,4 @@ def square_array(array)
   number.each do |number|
   return number**
 end
+end
